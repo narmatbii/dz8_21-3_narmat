@@ -1,0 +1,101 @@
+.pokeBlock {
+    background-color: #8bbd5c;
+    border-radius: 40px;
+    width: 600px;
+
+
+}
+.pokedex {
+    color: #750101;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.pokeStats {
+    color: #0c0c0c;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    margin-top: 20px;
+
+
+}
+.pokeTypes {
+    color: #020202;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 200px;
+    margin-left: 200px;
+    gap:10px;
+}
+.bgc {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    width: 200px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+h6 {
+    background-color: #4da877;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    color: red;
+    height: 15px;
+    width: 200px;
+}
+h4 {
+    background-color: #4d52a8;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    width: 200px;
+    height: 20px;
+}
+span {
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.pokeWeight {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.pokeHeight {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h5 {
+    background-color: #efcf3d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    width: 100px;
+    height: 20px;
+}
+.pokeBlocks {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 20px;
+    color: #020202;
+
+}
